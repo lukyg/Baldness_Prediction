@@ -1,4 +1,6 @@
 ![alt text](https://github.com/lukyg/Baldness_Prediction/blob/main/botak.jpg?raw=true)
+
+sumber gambar: https://www.alodokter.com/botak
 # Baldness Prediction
 
 Proyek ini menggunakan dataset Kebotakan untuk memprediksi terjadinya kebotakan pada seseorang ditinjau dari beberapa variabel seperti umur, gender, pekerjaan, status perkawinan, dll. Tujuan akhir dari proyek ini adalah untuk membangun model prediksi mengenai pengaruh variabel tersebut terhadap terjadinya kebotakan dengan menggunakan algortima Linear Regression dan Polynomial.
